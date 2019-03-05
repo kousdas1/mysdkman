@@ -16,7 +16,7 @@
 #
 
 # Global variables
-MYSDKMAN_SERVICE="https://api.sdkman.io/2"
+MYSDKMAN_SERVICE="https://raw.githubusercontent.com/kousdas1/mysdkman/master/mysdkman.sh"
 MYSDKMAN_VERSION="1.0.0"
 MYSDKMAN_PLATFORM=$(uname)
 
